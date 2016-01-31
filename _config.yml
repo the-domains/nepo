@@ -2,6 +2,7 @@ name: nepo
 favicon: null
 layout_spectrum: 0.08259272878058255
 typography_spectrum: 0.19992205617018044
+title: 'Oi, eu sou o Nepô!'
 cta:
   domain: null
   bucket: null
