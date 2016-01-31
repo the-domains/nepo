@@ -1,0 +1,28 @@
+name: nepo
+favicon: null
+layout_spectrum: 0.08259272878058255
+typography_spectrum: 0.19992205617018044
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.17315534688532352
+  lightness: 0.8700100285932422
+  saturation: 0.4690532258246094
+  rhythmicContrast: 0.008975151926279068
+purpose: []
