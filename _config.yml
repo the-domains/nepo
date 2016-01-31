@@ -1,29 +1,40 @@
-name: nepo
-favicon: null
-layout_spectrum: 0.08259272878058255
-typography_spectrum: 0.19992205617018044
-title: 'Oi, eu sou o Nepô!'
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.17315534688532352
-  lightness: 0.8700100285932422
-  saturation: 0.4690532258246094
-  rhythmicContrast: 0.008975151926279068
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.4690532258246094
+  brandStrength: 0.5303541
+  lightness: 0.8700100285932422
+  brandColors:
+    - '#000000'
+    - '#E11C26'
+    - '#910500'
+    - '#F3FDFB'
+    - '#C1545B'
+  rhythmicContrast: 0.008975151926279068
+typography_spectrum: 0.3903879
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.4536256
+favicon: null
+name: nepo
